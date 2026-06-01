@@ -4,23 +4,24 @@ export libopencv_calib3d, libopencv_core, libopencv_dnn, libopencv_features2d, l
 using Qt6Base_jll
 using Libglvnd_jll
 using libcxxwrap_julia_jll
+using OpenBLAS32_jll
 JLLWrappers.@generate_wrapper_header("OpenCV")
-JLLWrappers.@declare_library_product(libopencv_calib3d, "libopencv_calib3d.so.410")
-JLLWrappers.@declare_library_product(libopencv_core, "libopencv_core.so.410")
-JLLWrappers.@declare_library_product(libopencv_dnn, "libopencv_dnn.so.410")
-JLLWrappers.@declare_library_product(libopencv_features2d, "libopencv_features2d.so.410")
-JLLWrappers.@declare_library_product(libopencv_flann, "libopencv_flann.so.410")
-JLLWrappers.@declare_library_product(libopencv_gapi, "libopencv_gapi.so.410")
-JLLWrappers.@declare_library_product(libopencv_highgui, "libopencv_highgui.so.410")
-JLLWrappers.@declare_library_product(libopencv_imgcodecs, "libopencv_imgcodecs.so.410")
-JLLWrappers.@declare_library_product(libopencv_imgproc, "libopencv_imgproc.so.410")
+JLLWrappers.@declare_library_product(libopencv_calib3d, "libopencv_calib3d.so.413")
+JLLWrappers.@declare_library_product(libopencv_core, "libopencv_core.so.413")
+JLLWrappers.@declare_library_product(libopencv_dnn, "libopencv_dnn.so.413")
+JLLWrappers.@declare_library_product(libopencv_features2d, "libopencv_features2d.so.413")
+JLLWrappers.@declare_library_product(libopencv_flann, "libopencv_flann.so.413")
+JLLWrappers.@declare_library_product(libopencv_gapi, "libopencv_gapi.so.413")
+JLLWrappers.@declare_library_product(libopencv_highgui, "libopencv_highgui.so.413")
+JLLWrappers.@declare_library_product(libopencv_imgcodecs, "libopencv_imgcodecs.so.413")
+JLLWrappers.@declare_library_product(libopencv_imgproc, "libopencv_imgproc.so.413")
 JLLWrappers.@declare_library_product(libopencv_julia, "libopencv_julia.so")
-JLLWrappers.@declare_library_product(libopencv_objdetect, "libopencv_objdetect.so.410")
-JLLWrappers.@declare_library_product(libopencv_stitching, "libopencv_stitching.so.410")
-JLLWrappers.@declare_library_product(libopencv_video, "libopencv_video.so.410")
-JLLWrappers.@declare_library_product(libopencv_videoio, "libopencv_videoio.so.410")
+JLLWrappers.@declare_library_product(libopencv_objdetect, "libopencv_objdetect.so.413")
+JLLWrappers.@declare_library_product(libopencv_stitching, "libopencv_stitching.so.413")
+JLLWrappers.@declare_library_product(libopencv_video, "libopencv_video.so.413")
+JLLWrappers.@declare_library_product(libopencv_videoio, "libopencv_videoio.so.413")
 function __init__()
-    JLLWrappers.@generate_init_header(Qt6Base_jll, Libglvnd_jll, libcxxwrap_julia_jll)
+    JLLWrappers.@generate_init_header(Qt6Base_jll, Libglvnd_jll, libcxxwrap_julia_jll, OpenBLAS32_jll)
     JLLWrappers.@init_library_product(
         libopencv_calib3d,
         "lib/libopencv_calib3d.so",

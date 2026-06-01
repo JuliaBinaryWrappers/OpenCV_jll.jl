@@ -4,74 +4,75 @@ export libopencv_calib3d, libopencv_core, libopencv_dnn, libopencv_features2d, l
 using Qt6Base_jll
 using Libglvnd_jll
 using libcxxwrap_julia_jll
+using OpenBLAS32_jll
 JLLWrappers.@generate_wrapper_header("OpenCV")
-JLLWrappers.@declare_library_product(libopencv_calib3d, "@rpath/libopencv_calib3d.410.dylib")
-JLLWrappers.@declare_library_product(libopencv_core, "@rpath/libopencv_core.410.dylib")
-JLLWrappers.@declare_library_product(libopencv_dnn, "@rpath/libopencv_dnn.410.dylib")
-JLLWrappers.@declare_library_product(libopencv_features2d, "@rpath/libopencv_features2d.410.dylib")
-JLLWrappers.@declare_library_product(libopencv_flann, "@rpath/libopencv_flann.410.dylib")
-JLLWrappers.@declare_library_product(libopencv_gapi, "@rpath/libopencv_gapi.410.dylib")
-JLLWrappers.@declare_library_product(libopencv_highgui, "@rpath/libopencv_highgui.410.dylib")
-JLLWrappers.@declare_library_product(libopencv_imgcodecs, "@rpath/libopencv_imgcodecs.410.dylib")
-JLLWrappers.@declare_library_product(libopencv_imgproc, "@rpath/libopencv_imgproc.410.dylib")
+JLLWrappers.@declare_library_product(libopencv_calib3d, "@rpath/libopencv_calib3d.413.dylib")
+JLLWrappers.@declare_library_product(libopencv_core, "@rpath/libopencv_core.413.dylib")
+JLLWrappers.@declare_library_product(libopencv_dnn, "@rpath/libopencv_dnn.413.dylib")
+JLLWrappers.@declare_library_product(libopencv_features2d, "@rpath/libopencv_features2d.413.dylib")
+JLLWrappers.@declare_library_product(libopencv_flann, "@rpath/libopencv_flann.413.dylib")
+JLLWrappers.@declare_library_product(libopencv_gapi, "@rpath/libopencv_gapi.413.dylib")
+JLLWrappers.@declare_library_product(libopencv_highgui, "@rpath/libopencv_highgui.413.dylib")
+JLLWrappers.@declare_library_product(libopencv_imgcodecs, "@rpath/libopencv_imgcodecs.413.dylib")
+JLLWrappers.@declare_library_product(libopencv_imgproc, "@rpath/libopencv_imgproc.413.dylib")
 JLLWrappers.@declare_library_product(libopencv_julia, "@rpath/libopencv_julia.dylib")
-JLLWrappers.@declare_library_product(libopencv_objdetect, "@rpath/libopencv_objdetect.410.dylib")
-JLLWrappers.@declare_library_product(libopencv_stitching, "@rpath/libopencv_stitching.410.dylib")
-JLLWrappers.@declare_library_product(libopencv_video, "@rpath/libopencv_video.410.dylib")
-JLLWrappers.@declare_library_product(libopencv_videoio, "@rpath/libopencv_videoio.410.dylib")
+JLLWrappers.@declare_library_product(libopencv_objdetect, "@rpath/libopencv_objdetect.413.dylib")
+JLLWrappers.@declare_library_product(libopencv_stitching, "@rpath/libopencv_stitching.413.dylib")
+JLLWrappers.@declare_library_product(libopencv_video, "@rpath/libopencv_video.413.dylib")
+JLLWrappers.@declare_library_product(libopencv_videoio, "@rpath/libopencv_videoio.413.dylib")
 function __init__()
-    JLLWrappers.@generate_init_header(Qt6Base_jll, Libglvnd_jll, libcxxwrap_julia_jll)
+    JLLWrappers.@generate_init_header(Qt6Base_jll, Libglvnd_jll, libcxxwrap_julia_jll, OpenBLAS32_jll)
     JLLWrappers.@init_library_product(
         libopencv_calib3d,
-        "lib/libopencv_calib3d.4.10.0.dylib",
+        "lib/libopencv_calib3d.4.13.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libopencv_core,
-        "lib/libopencv_core.4.10.0.dylib",
+        "lib/libopencv_core.4.13.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libopencv_dnn,
-        "lib/libopencv_dnn.4.10.0.dylib",
+        "lib/libopencv_dnn.4.13.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libopencv_features2d,
-        "lib/libopencv_features2d.4.10.0.dylib",
+        "lib/libopencv_features2d.4.13.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libopencv_flann,
-        "lib/libopencv_flann.4.10.0.dylib",
+        "lib/libopencv_flann.4.13.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libopencv_gapi,
-        "lib/libopencv_gapi.4.10.0.dylib",
+        "lib/libopencv_gapi.4.13.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libopencv_highgui,
-        "lib/libopencv_highgui.4.10.0.dylib",
+        "lib/libopencv_highgui.4.13.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libopencv_imgcodecs,
-        "lib/libopencv_imgcodecs.4.10.0.dylib",
+        "lib/libopencv_imgcodecs.4.13.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libopencv_imgproc,
-        "lib/libopencv_imgproc.4.10.0.dylib",
+        "lib/libopencv_imgproc.4.13.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
@@ -83,25 +84,25 @@ function __init__()
 
     JLLWrappers.@init_library_product(
         libopencv_objdetect,
-        "lib/libopencv_objdetect.4.10.0.dylib",
+        "lib/libopencv_objdetect.4.13.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libopencv_stitching,
-        "lib/libopencv_stitching.4.10.0.dylib",
+        "lib/libopencv_stitching.4.13.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libopencv_video,
-        "lib/libopencv_video.4.10.0.dylib",
+        "lib/libopencv_video.4.13.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libopencv_videoio,
-        "lib/libopencv_videoio.4.10.0.dylib",
+        "lib/libopencv_videoio.4.13.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 

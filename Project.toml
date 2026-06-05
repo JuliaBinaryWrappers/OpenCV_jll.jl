@@ -1,6 +1,6 @@
 name = "OpenCV_jll"
 uuid = "33b9d88c-85f9-5d73-bd91-4e2b95a9aa0b"
-version = "4.13.0+2"
+version = "4.13.0+3"
 
 [deps]
 Libglvnd_jll = "7e76a0d4-f3c7-5321-8279-8d96eeed0f29"

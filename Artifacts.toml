@@ -1,565 +1,565 @@
 [[OpenCV]]
 arch = "aarch64"
-git-tree-sha1 = "fc941df74660cd6baa14911c019cb0b3f24e6590"
+git-tree-sha1 = "0081a766106422c28791cdfd920934183615ad2b"
 julia_version = "1.10.0"
 os = "macos"
 
     [[OpenCV.download]]
-    sha256 = "bd0db33cd17042e633b368cbe50a756d86784a53d6477773aa373ff7f1ae5160"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "87979ccb8de30aa0b286db7f24f2b5b06848068dd75ab1de47451e429cac5f14"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[OpenCV]]
 arch = "aarch64"
-git-tree-sha1 = "075a886355af668c4849d57fefecc1424118b5ec"
+git-tree-sha1 = "0af78d196d35175a53a653be4418c366eaaefe8c"
 julia_version = "1.11.1"
 os = "macos"
 
     [[OpenCV.download]]
-    sha256 = "e3b67a3e8c865d4fccd762e7dfdf0810b91d6efdb1fc7df54787e21898d25ffd"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
+    sha256 = "c1cf1ba24076d4f1684c468504a7de99a0245ae93ad1921e84c79c8dd526b62f"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[OpenCV]]
 arch = "aarch64"
-git-tree-sha1 = "dab26c5172e52e9d138695712127dda044a4b373"
+git-tree-sha1 = "ef880cc99184192a42253b090328b350f55ff6a1"
 julia_version = "1.12.0"
 os = "macos"
 
     [[OpenCV.download]]
-    sha256 = "ca561e7a83e7417715eb746281ed3e13430e5ca9dd5e1567fa0edf3f244c001a"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "5dae4ab63ab48b64af67183acbb70aa9b20f4ebc1b4b5ff34edf2e8aadf960d0"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[OpenCV]]
 arch = "aarch64"
-git-tree-sha1 = "9cffec7e5b96fecdaae0d811f80988b5d28392e1"
+git-tree-sha1 = "709fe66ad1cf3567c5e2358aa5619e3cc0ba8f68"
 julia_version = "1.13.0"
 os = "macos"
 
     [[OpenCV.download]]
-    sha256 = "9d57850098c90c73dad3eae587c90593ec46f8e7eb0c8d7daa79ec823f0099e2"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.aarch64-apple-darwin-julia_version+1.13.0.tar.gz"
+    sha256 = "043160195702900ba7434990036483fdec17719dfbd3f781853d1e13c5f97827"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.aarch64-apple-darwin-julia_version+1.13.0.tar.gz"
 [[OpenCV]]
 arch = "aarch64"
-git-tree-sha1 = "d97df8e4666ce63f8cbbb9e922bbd13a62b118de"
+git-tree-sha1 = "c7ef966d66eebbefc624015a01318c4f9515d83d"
 julia_version = "1.14.0"
 os = "macos"
 
     [[OpenCV.download]]
-    sha256 = "de18dd04bb9fb2f0b0bb1ff0e0cc0f7ea23cd3ca6e0194c5a9848b60c49aa240"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.aarch64-apple-darwin-julia_version+1.14.0.tar.gz"
+    sha256 = "e82f0acbea19a87879cf251eb52808bd4c54fed83cc5c872f45e28b3f00aafb5"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.aarch64-apple-darwin-julia_version+1.14.0.tar.gz"
 [[OpenCV]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5e48bb911940f2afb189c6f19bdcea70b879c913"
-julia_version = "1.10.0"
-libc = "glibc"
-os = "linux"
-
-    [[OpenCV.download]]
-    sha256 = "3736b7dd83e429c596834c40d7b95768213e630425a2def4ed708f717405e749"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
-[[OpenCV]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "aa958b56650d491e81dd2106ff0377e30d193a36"
-julia_version = "1.11.1"
-libc = "glibc"
-os = "linux"
-
-    [[OpenCV.download]]
-    sha256 = "734cc2d49e82e475cd02cfac62e1ea20ce10326fad3874186ace6fd5e547a795"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
-[[OpenCV]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "aa1d60e5d236c8c906bc314840f43c0e83f072b6"
-julia_version = "1.12.0"
-libc = "glibc"
-os = "linux"
-
-    [[OpenCV.download]]
-    sha256 = "04f958c6441b37480530d6d4ff3b08bbc244bda0e12e228be52dbb05c8a680df"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
-[[OpenCV]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "6b8ea0b19703b6afc9b3b5ef4d64b0d306c89e3c"
-julia_version = "1.13.0"
-libc = "glibc"
-os = "linux"
-
-    [[OpenCV.download]]
-    sha256 = "8957eaeb56c35ae07f14afcb3cc685ec842f4139366b91faa016738bea2a01ec"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.aarch64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
-[[OpenCV]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "6ae910596e5f654a2ff28410b0e23e57f0b13929"
-julia_version = "1.14.0"
-libc = "glibc"
-os = "linux"
-
-    [[OpenCV.download]]
-    sha256 = "e31336358e3aff1d4bbbd33f026aa4774cf2f6c445db4ece47013c8509784db9"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.aarch64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
-[[OpenCV]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "0e80b4d06b9d620dea0235d29f186436891ef288"
-julia_version = "1.10.0"
-libc = "musl"
-os = "linux"
-
-    [[OpenCV.download]]
-    sha256 = "23fa446cdcd04c2412627aa942a35c4d5432c20bb4560dccec76928a9e0f0463"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
-[[OpenCV]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "53a92431858fc45132e7bce6c155ee14834ea18f"
-julia_version = "1.11.1"
-libc = "musl"
-os = "linux"
-
-    [[OpenCV.download]]
-    sha256 = "b365d7e56f304a3535997698d145177b690907b43c7e60a53ba5fc070ff5c2b4"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.aarch64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
-[[OpenCV]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "5e403e4dabbcae848a254596e4455000bb5c0ac0"
-julia_version = "1.12.0"
-libc = "musl"
-os = "linux"
-
-    [[OpenCV.download]]
-    sha256 = "bb892d0d678872a6615b3d5f2b47411b17480b14115c843714345fda6c285d16"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
-[[OpenCV]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "7d8709eec7fec14d25d062db31a5f89691db9cdc"
-julia_version = "1.13.0"
-libc = "musl"
-os = "linux"
-
-    [[OpenCV.download]]
-    sha256 = "228f5df101ea578733c0554a899fb923933ba2562d90c7c9bbd533b26b13bec5"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.aarch64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
-[[OpenCV]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "b83602be9e3a295f9dc8fa4da376d3413574ee70"
-julia_version = "1.14.0"
-libc = "musl"
-os = "linux"
-
-    [[OpenCV.download]]
-    sha256 = "6fbb331e0a583dc734d7ffd4fcab64d4ac39e2d34706df8e2eef355ff8a0234c"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.aarch64-linux-musl-cxx11-julia_version+1.14.0.tar.gz"
-[[OpenCV]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "d4784f96610b403e6c7706e60b7e073fb24237be"
+git-tree-sha1 = "f3e4959c4a849e10e14493d04cc62c7e3bbfa757"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[OpenCV.download]]
-    sha256 = "6e0153d10bb898b32a30d4558d73018c54cf30963e4e5010413e9bf0aa0812ea"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "79bcd9bc65159b071f41e324f24d4738cef5e96cd2543d474d74a730fe974153"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[OpenCV]]
-arch = "i686"
+arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cae9441df297c4c2dba35623fa9f1d655670162a"
+git-tree-sha1 = "7133515ff554f9969e46f6bc29d3243759d599cd"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[OpenCV.download]]
-    sha256 = "2e17941cd03acb08eef8cf6656f983252a494ddf3de3537d3e5be696bb1b341d"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.i686-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "822cd43ece17704829dbe494cd8306e198227b8d1c6201542f0ae83d8daa1173"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[OpenCV]]
-arch = "i686"
+arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "eec038e2a9279923a56ec046b356c12d2983341c"
+git-tree-sha1 = "7d2d038c6ab64a750907ac5b7adc5726de9cca98"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[OpenCV.download]]
-    sha256 = "7beb21478cce856cdd7746477ff8e6b1a77f5e210582c7e903a0765d52edab73"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "aa150aaee3ded30980b8faea2c24bc10d0bcf6099a91f8a80fafc6e4a0197ad9"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[OpenCV]]
-arch = "i686"
+arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "171b02fe6203867f01de3dd7c847f56b59178a7f"
+git-tree-sha1 = "0b842c746e0a20256145a828e53dd7dc3513f6b1"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[OpenCV.download]]
-    sha256 = "feb1cbd738d2831d25bbcfd99fd3aa76ff8bbd771ae0479d0bf5349187b7e5c0"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.i686-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "c3609a75abb8fef6e03d4dac183dababf6e143d2f1fe32f318fa0a4414a40dcb"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.aarch64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[OpenCV]]
-arch = "i686"
+arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6b3fc80515839fd0c6e3299c172619fca104cca7"
+git-tree-sha1 = "14c40ac792e59ce75e4ac61b88c478f10b2df9a3"
 julia_version = "1.14.0"
 libc = "glibc"
 os = "linux"
 
     [[OpenCV.download]]
-    sha256 = "667775afa0eedefe9cee5783921b2e4b6916d4989ac461848391fed81bffca45"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.i686-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "0bfea62466cb69a4ea6fffa5c673ed37331e629e763a120380d5dd61110c3706"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.aarch64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+[[OpenCV]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2919c264c33a0859f83d97aa3c0275079466f2d1"
+julia_version = "1.10.0"
+libc = "musl"
+os = "linux"
+
+    [[OpenCV.download]]
+    sha256 = "5842a487f6b112f660e2a11f8b65bc5c636e521e06f0f506e5f7ed3938e87fdf"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+[[OpenCV]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c69397a45ae75ce72f5d9000d496687857ff578b"
+julia_version = "1.11.1"
+libc = "musl"
+os = "linux"
+
+    [[OpenCV.download]]
+    sha256 = "dcbe9822a3d7b53a51ff534c91dae67080975f88979b9988b500c6242ef9b513"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.aarch64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
+[[OpenCV]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6eb6325ca04f8d2f27e8edc4e5d570f18177eef0"
+julia_version = "1.12.0"
+libc = "musl"
+os = "linux"
+
+    [[OpenCV.download]]
+    sha256 = "5e73080d68fb1eab98786d12800c0a4af1f13758184926554ad71d5c98578f96"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+[[OpenCV]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2e1e70687408d71d95a780fd06a7b9aa347a22ac"
+julia_version = "1.13.0"
+libc = "musl"
+os = "linux"
+
+    [[OpenCV.download]]
+    sha256 = "e057cee1dfaed1c869fbaa34812872d9684082532a5f456279906fb0a0ceb8ae"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.aarch64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
+[[OpenCV]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a4fc01aede45d89de0c422815bfc0964c24b1386"
+julia_version = "1.14.0"
+libc = "musl"
+os = "linux"
+
+    [[OpenCV.download]]
+    sha256 = "82c388b61473a99543c3f45a6531f5739664ea104ef913c5320ab1fed3b9a607"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.aarch64-linux-musl-cxx11-julia_version+1.14.0.tar.gz"
 [[OpenCV]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6c32f85e4c599df8d642611e13d2ff14085c6e1d"
+git-tree-sha1 = "d4b4ccfc93234c7e1c55abc1782f33e978ba59b5"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[OpenCV.download]]
+    sha256 = "fe05e1818b26c9e8cfc098bcd1a3b301aff78e21fb521009e6229d6ff8b2890c"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[OpenCV]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "47bc8484dae2c560c9dd13c6b67029fd6a0f87e3"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[OpenCV.download]]
+    sha256 = "1bd739acc1b184f335725b4bf04427f108470367eb88e8a4c3abf8ab3d155ec2"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.i686-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+[[OpenCV]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "24e772533850eac11824abf4e25a6cc42eb35742"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[OpenCV.download]]
+    sha256 = "c53e94c39f12aa8e4b94c0fbebcdf3f9cf9cb3aa458ce85682857692a548516f"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[OpenCV]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "35b51c7ce514fed13cb6d97b245599862282c8da"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[OpenCV.download]]
+    sha256 = "ecfe7e5a907e3f4b2a15efb4e4aead480d3e98743733bbcb847f9677ab32d702"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.i686-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+[[OpenCV]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9d256074f903328a2408dd01024501fc81117126"
+julia_version = "1.14.0"
+libc = "glibc"
+os = "linux"
+
+    [[OpenCV.download]]
+    sha256 = "92ed28a4523b30790722c27655f28e4c887a263ecfd055f084380d9accf9dcb5"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.i686-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+[[OpenCV]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "aca078b65b1e7d5a282262fd8f86f0d781504dca"
 julia_version = "1.10.0"
 os = "windows"
 
     [[OpenCV.download]]
-    sha256 = "55476d71d1bb3bf541740a3cff8565ae6179bee6ae5f0e02cc42ec3c6217da23"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.i686-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "4e3ed6c720d24b7b8782d209cb8d23bf310e8f9996158cc666a7e5b49042eefa"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.i686-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
 [[OpenCV]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "94700e9f960fd59bb5bbf883dea90b85e81d0eff"
+git-tree-sha1 = "cff493234cd006e4e8b8e5fd62b7a54519f09145"
 julia_version = "1.11.1"
 os = "windows"
 
     [[OpenCV.download]]
-    sha256 = "f4cf3401a691b538b5d5a65ac1c2cab9e71ae9ea1b9e45ba42aa8e8db9d6e661"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.i686-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "4a4c545e89262c77e0c6e82ee75d55f5724eb9fdc758903c68f3601548bd4d53"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.i686-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
 [[OpenCV]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2a90a7718a3c3e371071131c4b26edf36cea7ceb"
+git-tree-sha1 = "81992c777b25347b295b958689ca71d57470bfc8"
 julia_version = "1.12.0"
 os = "windows"
 
     [[OpenCV.download]]
-    sha256 = "e7f2fecdab2a9ba5e77189b7b5559ab377db8cdeae9b25041cd716ed1646e33f"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.i686-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "92f681bf59a3cf1aa13eee96c48752437152934bce97170895211414e588ae15"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.i686-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
 [[OpenCV]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "28034bc87e7c1ee5799f2d02c86988d5b30e1f44"
+git-tree-sha1 = "b7f07d72d49c42627eefad3ab2edae956817473a"
 julia_version = "1.13.0"
 os = "windows"
 
     [[OpenCV.download]]
-    sha256 = "7c14b0c3f938e0cfcf5fa8840f236f304abf8df8e4e19643c8344011fb169829"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.i686-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "8bf604ab3ed0ae8008ee1509579b8be80079669c9ce7e7425cf204e762b45151"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.i686-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
 [[OpenCV]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1b903488c5d13036f301a104b7401bc0d18cb555"
+git-tree-sha1 = "deae3557ecb79a919fe5ee9a3804733bada8c3b3"
 julia_version = "1.14.0"
 os = "windows"
 
     [[OpenCV.download]]
-    sha256 = "4831f81fcda91bff68bb631dd3da573f8659667bf351f52d4d3dc48ce2283fa4"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.i686-w64-mingw32-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "46f4b5af03e0be0270821630df6e2c4d0389d82b56ad845a9778ed3f531d471a"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.i686-w64-mingw32-cxx11-julia_version+1.14.0.tar.gz"
 [[OpenCV]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f07f347b3202456e810d8363db2ec774a1e1fea6"
+git-tree-sha1 = "5505cbfbbe318f818c785cf2abfa5bf2ac12b9ba"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[OpenCV.download]]
-    sha256 = "6a06c064a102b3cabba30ac7431528af62a5b2202a8da02f36eba20f317b5191"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "026a25db38e1f6e2118be446d230771e676c40619f6351bae1e4612d1c01705c"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[OpenCV]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "82453366efcd186706eca2d4df15f56c70130462"
+git-tree-sha1 = "148569ed6d88bed27389fce0381003c3ee4500f0"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[OpenCV.download]]
-    sha256 = "9592f32d4fbfd4a447c32b6599d0a7a203f7c9c55cbdd53cbc28507cad7ea729"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.powerpc64le-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "87154af38b0cdf4358c2b00867c89cb46ea32c71a018a922c7af4ad1ab60e062"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.powerpc64le-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[OpenCV]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "eb17bb565938f90aba3fda7562208ed4b0f8d6f4"
+git-tree-sha1 = "3941d4034f6ff362425d5175c9488138773c53e1"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[OpenCV.download]]
-    sha256 = "208b1ac41e12eeee6f28c744f0d82dc0b5058de893d0ba83970e280756ea06de"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "442db09a2d40757e216f0350246a5bc1523d1d091d03e8e1a6781864a7d94705"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[OpenCV]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c89cd9ebe1d42cfe46becba6358dcc95161db0ba"
+git-tree-sha1 = "c8df4178886c93dcf83574881ff89012b7c58a17"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[OpenCV.download]]
-    sha256 = "b2153e024ec8ac6019b274d68e4aaaf645bf22a167afc5667916af0a599b8d06"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.powerpc64le-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "b8a49f19b87f15721085d9aa09a9c9ac0d4b5af17b228c3ba91a8742548a350b"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.powerpc64le-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[OpenCV]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "549ce48a6792e9fe450936d866daf3be55e52513"
+git-tree-sha1 = "4b88f3c1f9b3e7dbbadaf20360a3c45404a1dfc8"
 julia_version = "1.14.0"
 libc = "glibc"
 os = "linux"
 
     [[OpenCV.download]]
-    sha256 = "600eb0d26960b07a885ae4e706cc07bb1ea3be1e1acf26ccb310466f0bce7571"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.powerpc64le-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "aa8fc61ce919740d155f7ccb27b45f0d7a22552c337bae9e98245d160c4cf87c"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.powerpc64le-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
 [[OpenCV]]
 arch = "x86_64"
-git-tree-sha1 = "69b3b4887d3fc59601d1e68d1c7846348e4f4a35"
+git-tree-sha1 = "59eca693ae8a40f192140aa85c66209432d8707f"
 julia_version = "1.10.0"
 os = "macos"
 
     [[OpenCV.download]]
-    sha256 = "fe83562f93da39d06f30fe4896341c13b5be280dcd2da3e489e80b1b4336aefa"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "ad7eeace1635aa5336ca745dadba795aff920ceb3c28e6d45ec1c79bd8248218"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[OpenCV]]
 arch = "x86_64"
-git-tree-sha1 = "a75e7ae6aac51dcd6e5942a4fd1d9ff5570fd6ec"
+git-tree-sha1 = "4e5ef0688ddf052394866dc06ac771a3cfcf8051"
 julia_version = "1.11.1"
 os = "macos"
 
     [[OpenCV.download]]
-    sha256 = "a84a9bb5aad81205d71ac59b447b1721d157b4cea3d0f1a62f0ff1f935f1e96a"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
+    sha256 = "91976f81754f01358b5d9d3593f1373dc5069637226f0aa67a83c1d65dcd758d"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[OpenCV]]
 arch = "x86_64"
-git-tree-sha1 = "7d5b2542cbe2306465fae597b29df1284adee897"
+git-tree-sha1 = "7c7c3da26b6dd16c9ab198c305bb88cf78b1fff1"
 julia_version = "1.12.0"
 os = "macos"
 
     [[OpenCV.download]]
-    sha256 = "b318cecc2a6f7264d5015f5b03fe5ede7d0fc07b85c981743dc368306d744482"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "f547ff9030cf733c7c27497986edc26f10eda9fb9c5131c10aff14849a683af4"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[OpenCV]]
 arch = "x86_64"
-git-tree-sha1 = "5151b1eaac1b6e9330244a9d39944596b4c9c20c"
+git-tree-sha1 = "75559f7343092a45111469d258f227f8fdc39ed7"
 julia_version = "1.13.0"
 os = "macos"
 
     [[OpenCV.download]]
-    sha256 = "b7da6bbba30c8ca3b95a88eb74bae6413111a415222bfdbb27cd3208562d8f95"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.x86_64-apple-darwin-julia_version+1.13.0.tar.gz"
+    sha256 = "46c4e564f21340c4149a0621bb4d7d41eb24076085e1441e3ffbe8b55ba4f974"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.x86_64-apple-darwin-julia_version+1.13.0.tar.gz"
 [[OpenCV]]
 arch = "x86_64"
-git-tree-sha1 = "91ede385174199fa297ef2774671da22638633b1"
+git-tree-sha1 = "5baae9b48acca6e8b59f6f1f0474f016e58e4fcc"
 julia_version = "1.14.0"
 os = "macos"
 
     [[OpenCV.download]]
-    sha256 = "ff90d8dfb67f2fbcb3d131ea62625dee474ecf589363761d8f6627ad2dad0d7a"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.x86_64-apple-darwin-julia_version+1.14.0.tar.gz"
+    sha256 = "1d9c8ef061cd0cea1b646addff698b97a3562a1394e6088448f42ed62db6c14e"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.x86_64-apple-darwin-julia_version+1.14.0.tar.gz"
 [[OpenCV]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "17a26aac67dda495af7ee43cb67a0709e486e5c7"
+git-tree-sha1 = "e58240b63f3476dc30566700644a16805a2160d6"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[OpenCV.download]]
-    sha256 = "27a59325b08f21b6dbc160cf749d19058c7a66ba2bacfe9befb940b341e08cc8"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "92a5cae680462c6fe09c904471dfca54066beef95e6c31f13db9f5c6a4298659"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[OpenCV]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "592ae3a4c712c74e9ca24fac1fda32d87ef9647c"
+git-tree-sha1 = "57bcc66c23d84982ebddcda412e681ff55390239"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[OpenCV.download]]
-    sha256 = "5f6a2bc056b6ef142988dc7372e15b09088af592ecd5171344ceb834d92644df"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "83fb149f416170d95db990e84483675b0e45e2615ba536bbbb71da6c88f374c9"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[OpenCV]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "10f91a4d052dc7bc5c343848b309f93c3633791b"
+git-tree-sha1 = "6a5a5ab475f8a13575674a4201038b2a3c587a07"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[OpenCV.download]]
-    sha256 = "976a55d7a979ed47779f4e61006d02950e62e1dcf4f2afef5662a0f26198fb76"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "ee84ddfd4a01a80adc01f4c0f3d70a886f78156fc191091cf547924f290056cd"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[OpenCV]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f760702934312a8b09fce0706cad03992f66951c"
+git-tree-sha1 = "7a4a998b4597154cefa842e2a7dcf64ad3d67aa0"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[OpenCV.download]]
-    sha256 = "bd31ad0454eee859ba125f2c3cf06e923e74119886460df7569a90d061c4aa5f"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.x86_64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "f6379d789bb149f7ec7ef8e2292d2354f3ad505baf95d2cf55201541027a7759"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.x86_64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[OpenCV]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7ba063f308bf29373bd99f602d6958c3a61f6e7f"
+git-tree-sha1 = "18a842ac2e15db410b67d9eb1693bbcb8b3f96f9"
 julia_version = "1.14.0"
 libc = "glibc"
 os = "linux"
 
     [[OpenCV.download]]
-    sha256 = "fae08ec24c54f8513e2c167489166cb7759cd1716bd0d6626528b2987a39aaf0"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.x86_64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "78e0d31fd1263c151af248c1332dae8dc59f2702390e2db47f2e29f4808e2e5d"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.x86_64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
 [[OpenCV]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "235123bdde3c5d0fa2daa1ef1cd569654fd924ef"
+git-tree-sha1 = "7140df73d6f8409abc5651138b54ee69291be9ee"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[OpenCV.download]]
-    sha256 = "b29b906b4532d682a5db9906da25ca25ced5572fa784ce2f0e7ac15bf3d60727"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "ae697b4618a03b0e8349786ddab3fdf40a0ba50983b490f95b04e3aae93a09e7"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
 [[OpenCV]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3281e4a934b0c039c912c97bdd483343ab76ed2d"
+git-tree-sha1 = "028e898c4b90f9cfd96d8756aab11e797b084df8"
 julia_version = "1.11.1"
 libc = "musl"
 os = "linux"
 
     [[OpenCV.download]]
-    sha256 = "f55c837dc990d79947b745851f1052b26904dfa4bde3633a0dc2e1aae3226be3"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.x86_64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "f94acebd4231f68d864721a1620b4437ab91c96fc94a4acb824a37ca8153e16f"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.x86_64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
 [[OpenCV]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f3246a629ea8559c9f13c1a564ca95009ff64f05"
+git-tree-sha1 = "003d343d53549a314df568c800ea9adbf8dab51a"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[OpenCV.download]]
-    sha256 = "55eba4e273cf0e1039f330aca83c25513f1961b85d6241315ffc35e34a3650df"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "001f097e2c7ec89a9bfa8e0ad8666816d4fc652a6c00a86355c0906462e085bc"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
 [[OpenCV]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "54ab79cf14481b9f4abe109e8d0f5762bbd2132c"
+git-tree-sha1 = "003029653d6df72afa212b6b2c0fec20aa9790de"
 julia_version = "1.13.0"
 libc = "musl"
 os = "linux"
 
     [[OpenCV.download]]
-    sha256 = "d0325775dd2f7a8975d3886946f231b89cd945a5b74e09b5ca442cb11890b89e"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.x86_64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "90128f5920b3732bdae677f06c7c4b00f01ae784d0aa62841864124eaeb1e8fe"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.x86_64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
 [[OpenCV]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2d5a8c5e33533cc83eed00ba67db5bcbd5bd0043"
+git-tree-sha1 = "59604fef03dba88238a5b4ee038708bc6c72353a"
 julia_version = "1.14.0"
 libc = "musl"
 os = "linux"
 
     [[OpenCV.download]]
-    sha256 = "185afb7c93d43b67ebf7c330ec78ebef76ca17d5ece598137d3f22be6b061445"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.x86_64-linux-musl-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "bb701147a86a94c98f1dbb304e2d0b39ea52cd94859c9ff4cfe58985671ff422"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.x86_64-linux-musl-cxx11-julia_version+1.14.0.tar.gz"
 [[OpenCV]]
 arch = "x86_64"
-git-tree-sha1 = "cb9f4ba8619962e90543993836a1798fa4fb42be"
+git-tree-sha1 = "3740a8cad8c53e1dc834a66fbd4412eb06d7f264"
 julia_version = "1.10.0"
 os = "freebsd"
 
     [[OpenCV.download]]
-    sha256 = "f7f717fb2ff37855fcbf39960a4d74782e41884aa2d386922fba40dcaa6071af"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
+    sha256 = "3e281bee1b516559d847c8e37352b94fc72ecf2623c87131a68dd1a9e916d17b"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
 [[OpenCV]]
 arch = "x86_64"
-git-tree-sha1 = "299162257714b7a14bbe0addcd04124f3faee980"
+git-tree-sha1 = "3ba1ed23ab228fbfa9edbef61808b260efb140ab"
 julia_version = "1.11.1"
 os = "freebsd"
 
     [[OpenCV.download]]
-    sha256 = "df239f041ef0a3511d981bcdaaca47ce97e8405db611c9032a44a3b4fbfab481"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.x86_64-unknown-freebsd-julia_version+1.11.1.tar.gz"
+    sha256 = "220700906b45b71a9df4d8f6137854e72f85b73dcef7791f02f48c593957515a"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.x86_64-unknown-freebsd-julia_version+1.11.1.tar.gz"
 [[OpenCV]]
 arch = "x86_64"
-git-tree-sha1 = "0749734c88aea8f8500977fabcb0d07b852f5456"
+git-tree-sha1 = "ef644bbdc357b9c23bfccae812a813a5cc546414"
 julia_version = "1.12.0"
 os = "freebsd"
 
     [[OpenCV.download]]
-    sha256 = "149bdd372fcc9e0b8dcdfd63348f0159777d8b6dc5bd453aa1fcaff0e2bd33dc"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+    sha256 = "da46ee27cef82150355585d09a68491bcdfd1feaa82c42ff4b4eb92f1f872e79"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
 [[OpenCV]]
 arch = "x86_64"
-git-tree-sha1 = "1386142adca54b444be4d889ac22196cee3e1ad2"
+git-tree-sha1 = "552da0d51325390383863c1b3336365ae372938e"
 julia_version = "1.13.0"
 os = "freebsd"
 
     [[OpenCV.download]]
-    sha256 = "3d4c46a73758989e633d67c2d3bc811362baf8bbf58605cf58b301cedc961145"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.x86_64-unknown-freebsd-julia_version+1.13.0.tar.gz"
+    sha256 = "62df4eda8472eb9b21e3ecb36cb14b83a3abbc8da3fce264aa063194d2b9fdf0"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.x86_64-unknown-freebsd-julia_version+1.13.0.tar.gz"
 [[OpenCV]]
 arch = "x86_64"
-git-tree-sha1 = "f01d7959f1e2d3d19a0cde1505aa482ad872a722"
+git-tree-sha1 = "bb37921dba0eb4263f34c8601eea7bcd9060e924"
 julia_version = "1.14.0"
 os = "freebsd"
 
     [[OpenCV.download]]
-    sha256 = "65d337553e64c3f528290f61d8d8a4a75e0410808e71b9b7065f25ab08726f17"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.x86_64-unknown-freebsd-julia_version+1.14.0.tar.gz"
+    sha256 = "db4c4b2165be6cfbef3113118b04fd59145c303a7c9063c9cb6d4148e27a740c"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.x86_64-unknown-freebsd-julia_version+1.14.0.tar.gz"
 [[OpenCV]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d865f54cd69656a9898fd7a3f6524781ad473fda"
+git-tree-sha1 = "0f2fdcdfa329f90002dab70551f9d24107d119ce"
 julia_version = "1.10.0"
 os = "windows"
 
     [[OpenCV.download]]
-    sha256 = "61888b5ed3cecd92f6b70c7807b7af220ed383c2de12162c2072127a0b2e06a7"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "7023823485182cf9e742f36c9e34d794f262a0f4d59101830dd65c7595e2276a"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
 [[OpenCV]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "91d88f2d4169b987e22c68e563b89e266237faa4"
+git-tree-sha1 = "39f747cb4f366eaca90a11e441fb811341c6c61d"
 julia_version = "1.11.1"
 os = "windows"
 
     [[OpenCV.download]]
-    sha256 = "a3313178637e8b8635d53d414803aa5c87a86455d885dac572d936960691505e"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.x86_64-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "a6db2cc65b333094ade80406eb2f2e3a0826aad711e471705f3a2fa09fc36ce4"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.x86_64-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
 [[OpenCV]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e6e096af85b70a2c54e37187482df4bb03b0fbe3"
+git-tree-sha1 = "e7c2c21d6b9acb785d6848ead55a7c567f47387e"
 julia_version = "1.12.0"
 os = "windows"
 
     [[OpenCV.download]]
-    sha256 = "5911b1dcd992d4fa703ca2bb6a1a0098a547baf7644a979adac8ab90c4f63e03"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "87a8aea7fbd9accc3ed75f7d036bd1b4c041488a3ac5586250d3539797a615bb"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
 [[OpenCV]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "eb94312a4c2f30889a20d218847a62951e836548"
+git-tree-sha1 = "a2b8eaab8c55e0e79518c0f63b156b287c8f80c0"
 julia_version = "1.13.0"
 os = "windows"
 
     [[OpenCV.download]]
-    sha256 = "8c0b413c31d8378f01066d3dba9f36d3136d8d1f484396f562c0c346a1cdefec"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.x86_64-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "b6056b07b1aeff407f1c06f4ef895b8efebb2097e825d1a8d7eb26755c42d4a8"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.x86_64-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
 [[OpenCV]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7ff0fc8b2b98547cc7990fb41388b21faed38c6e"
+git-tree-sha1 = "67d10866d964a4723e42c1b50f15bc996b7e836b"
 julia_version = "1.14.0"
 os = "windows"
 
     [[OpenCV.download]]
-    sha256 = "74db894230a6fb975ca8c52644d444a35eca5a16c9b7936d30184e1e6f992c6d"
-    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+3/OpenCV.v4.13.0.x86_64-w64-mingw32-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "180c74dd63597056714c6f9be283b27a96cd29e13d40c183bf330df9bb33a403"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_jll.jl/releases/download/OpenCV-v4.13.0+4/OpenCV.v4.13.0.x86_64-w64-mingw32-cxx11-julia_version+1.14.0.tar.gz"
